@@ -24,17 +24,30 @@ CRUD Posts adalah aplikasi sederhana untuk mengelola data postingan dengan fitur
 Ikuti langkah-langkah di bawah untuk menjalankan proyek ini di komputer Anda:
 
 ### 1. Clone Repository
-```bash
-git clone https://github.com/Abdirizal024/nopalbelajar.git```
-```cd nopalbelajar```
+```
+git clone https://github.com/Abdirizal024/nopalbelajar.git
+```
+```
+cd nopalbelajar
+```
 ### 2. Install Dependencies
-```composer install```
-```npm install```
-```npm run build```
+```
+composer install
+```
+```
+npm install
+```
+```
+npm run build
+```
 ### 3. Konfigurasi File ```.env```
-```cp .env.example .env```
+```
+cp .env.example .env
+```
 Buat file ```.env:```
-```cp .env.example .env```
+```
+cp .env.example .env
+```
 Edit file .env untuk mengatur koneksi database:
 ```
 DB_CONNECTION=mysql
@@ -45,11 +58,17 @@ DB_USERNAME=root
 DB_PASSWORD=password
 ```
 4. Generate Application Key
-```php artisan key:generate```
-5. Migrasi dan Seed Database
-```php artisan migrate --seed```
-6. Jalankan Aplikasi
-```php artisan serve```
+```
+php artisan key:generate
+```
+6. Migrasi dan Seed Database
+```
+php artisan migrate --seed
+```
+8. Jalankan Aplikasi
+```
+php artisan serve
+```
 Akses aplikasi di browser melalui URL: ```http://localhost:8000```
 
 📸 **Screenshot**
