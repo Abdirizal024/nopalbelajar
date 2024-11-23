@@ -78,7 +78,8 @@ Dashboard
 Tambah Post
 
 Edit Post
-![Screenshot_20241121-134537_Chrome](https://github.com/user-attachments/assets/c2b2a1dd-ddde-4b39-80b8-8c64dde8dd8c)
+
+
 🚦 Fitur CRUD
 ---
 Tambah Post
