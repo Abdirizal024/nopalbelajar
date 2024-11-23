@@ -72,14 +72,14 @@ php artisan serve
 Akses aplikasi di browser melalui URL: ```http://localhost:8000```
 
 📸 **Screenshot**
-Dashboard
+Dashboard.
 
-Tambah Post
+Tambah Post.
 
-Edit Post
+Edit Post.
 
 🚦 Fitur CRUD
-Tambah Post
+Tambah Post.
 Klik tombol Tambah Post di halaman utama.
 Isi formulir dengan judul, konten, dan gambar.
 Klik Simpan.
