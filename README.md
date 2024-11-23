@@ -12,7 +12,7 @@ CRUD Posts adalah aplikasi sederhana untuk mengelola data postingan dengan fitur
 ---
 
 ## ⚙️ Teknologi yang Digunakan
-- **Laravel 10**
+- **Laravel 11**
 - **Bootstrap 5**
 - **Toastr.js**
 - **SweetAlert2**
@@ -55,7 +55,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=nama_database
 DB_USERNAME=root
-DB_PASSWORD=password
+DB_PASSWORD=
 ```
 4. Generate Application Key
 ```
@@ -73,12 +73,12 @@ Akses aplikasi di browser melalui URL: ```http://localhost:8000```
 
 📸 Screenshot
 ---
-Dashboard.
+Dashboard
 
-Tambah Post.
+Tambah Post
 
-Edit Post.
-
+Edit Post
+![Screenshot_20241121-134537_Chrome](https://github.com/user-attachments/assets/c2b2a1dd-ddde-4b39-80b8-8c64dde8dd8c)
 🚦 Fitur CRUD
 ---
 Tambah Post
