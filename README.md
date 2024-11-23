@@ -71,8 +71,8 @@ php artisan serve
 ```
 Akses aplikasi di browser melalui URL: ```http://localhost:8000```
 
-📸 **Screenshot**
-
+📸 Screenshot
+---
 Dashboard.
 
 Tambah Post.
@@ -87,15 +87,20 @@ Klik tombol Tambah Post di halaman utama.
 
 Isi formulir dengan judul, konten, dan gambar.
 
-Klik Simpan.
+Klik Simpan
 
-Edit Post.
+Edit Post
 
 Klik tombol Edit di baris postingan.
+
 Ubah data yang diinginkan.
+
 Klik Update.
+
 Hapus Post.
+
 Klik tombol Hapus.
+
 Konfirmasi penghapusan menggunakan SweetAlert.
 
 💡 Pengembang
