@@ -1,4 +1,4 @@
-# 🚀 CRUD Posts with Laravel
+# 🚀 ⭐ CRUD Posts with Laravel ⭐
 
 CRUD Posts adalah aplikasi sederhana untuk mengelola data postingan dengan fitur Create, Read, Update, dan Delete (CRUD). Aplikasi ini menggunakan **Laravel Framework** dan dirancang untuk memudahkan pengelolaan postingan dengan gambar.
 
@@ -48,7 +48,7 @@ Buat file ```.env:```
 ```
 cp .env.example .env
 ```
-Edit file .env untuk mengatur koneksi database:
+Edit file ```.env``` untuk mengatur koneksi database:
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -72,6 +72,7 @@ php artisan serve
 Akses aplikasi di browser melalui URL: ```http://localhost:8000```
 
 📸 **Screenshot**
+
 Dashboard.
 
 Tambah Post.
@@ -79,19 +80,27 @@ Tambah Post.
 Edit Post.
 
 🚦 Fitur CRUD
-Tambah Post.
+---
+Tambah Post
+
 Klik tombol Tambah Post di halaman utama.
+
 Isi formulir dengan judul, konten, dan gambar.
+
 Klik Simpan.
-Edit Post
+
+Edit Post.
+
 Klik tombol Edit di baris postingan.
 Ubah data yang diinginkan.
 Klik Update.
-Hapus Post
+Hapus Post.
 Klik tombol Hapus.
 Konfirmasi penghapusan menggunakan SweetAlert.
+
 💡 Pengembang
-Nama Anda - GitHub
+---
+Abdirizal024 - GitHub
 Kontributor - GitHub
 🛠️ Masalah dan Kontribusi
 Jika menemukan masalah atau ingin berkontribusi:
@@ -100,15 +109,8 @@ Buat Issue di GitHub Issues.
 Fork repository, lakukan perubahan, dan kirimkan Pull Request.
 
 📝 Lisensi
+---
 Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan Anda.
 
 ⭐ Jangan lupa beri bintang jika proyek ini membantu Anda! ⭐
 ---
-
-### **Penyesuaian**
-
-1. **Ganti `username` dan `repo-name`** dengan nama pengguna dan nama repository Anda.
-2. **Tambahkan screenshot** aplikasi sebenarnya ke dalam proyek, lalu perbarui URL placeholder di bagian **Screenshot** dengan URL gambar Anda.
-3. **Perbarui informasi kontak** di bagian **Pengembang**.
-
-Hasilnya adalah README yang profesional, informatif, dan menarik untuk repository GitHub Anda. 🎉
